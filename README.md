@@ -1,0 +1,3 @@
+O padrão de projeto observer é uma ponte entre classes, onde, quando um evento é disparado, todas as classes que o implementam podem tratar este evento.
+O mesmo deve ser utilizado quando se deseja reduzir o acoplamento entre as classes e quando um objeto terá ações que devem refletir no uso de outro objeto.
+Observer pode ser usado para a chamada de telas/frames, atualização de planilhas, notificações de sistema/aplicativos, etc;
